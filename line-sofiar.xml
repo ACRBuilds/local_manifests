@@ -2,8 +2,6 @@
 <manifest>
     <remote fetch="https://github.com/moto-sm6xxx/" name="sofiar-dev" revision="android-11" />
     <remote fetch="https://github.com/ACRBuilds/" name="acrbuilds" revision="android-11" />
-    <remote fetch="https://github.com/LineageOS/" name="LineageOS" revision="lineage-18.1">
-    <project name="android_device_motorola_sofiar" path="device/motorola/sofiar" remote="acrbuilds" revision="dot11" />
     <project name="android_kernel_motorola_sofiar" path="kernel/motorola/trinket" remote="acrbuilds" />
     <project name="android_vendor_motorola_sofiar" path="vendor/motorola/sofiar" remote="sofiar-dev" />
 </manifest>
