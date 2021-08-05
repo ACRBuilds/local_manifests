@@ -4,7 +4,7 @@
     <remote fetch="https://github.com/ACRBuilds/" name="acrbuilds" revision="android-11" />
     <project name="android_device_motorola_dynamic-common" path="device/motorola/dynamic-common" remote="sofiar-dev" />
     <project name="android_device_motorola_sm6125-common" path="device/motorola/sm6125-common" remote="sofiar-dev" />
-    <project name="android_device_motorola_sm6125-unified" path="device/motorola/sm6125-unified" remote="sofiar-dev" />
+    <project name="android_device_motorola_sm6125_unified" path="device/motorola/sm6125_unified" remote="sofiar-dev" />
     <project name="android_kernel_motorola_sm6125" path="kernel/motorola/sm6125" remote="sofiar-dev" />
     <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="sofiar-dev" />
     <remove-project name="android_device_lineage_sepolicy" />
