@@ -5,6 +5,5 @@
     <project name="android_device_motorola_sofiap" path="device/motorola/sofiap" remote="acrbuilds" />
     <project name="android_kernel_motorola_sofiar" path="kernel/motorola/trinket" remote="acrbuilds" />
     <project name="android_vendor_motorola_sofiar" path="vendor/motorola/sofiar" remote="sofiar-dev" />
-    <remove-project name="android_device_lineage_sepolicy" />
     <project path="device/lineage/sepolicy" name="ACRBuilds/android_device_lineage_sepolicy"/>
 </manifest>
